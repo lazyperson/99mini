@@ -1,0 +1,87 @@
+.container {
+  background-color: #f0f0f0;
+  min-height: 1000px;
+
+  .banner {
+    width: 100%;
+    height: 380px;
+    background: linear-gradient(-15deg, #33A6D5, #23D5AB);
+    position: relative;
+  }
+
+  .photoView {
+    position: absolute;
+    left: calc(50% - 60px);
+    top: 100px;
+  }
+
+  .defaultPhoto {
+    font-size: 120px;
+    color: white;
+  }
+
+  .authBtn {
+    border: none;
+    width: 160px;
+    height: 60px;
+    font-size: 28px;
+    left: 0;
+    top: 210px;
+    color: white;
+  }
+
+  .authBtnImg {
+    border: none;
+    width: 120px;
+    height: 120px;
+    padding: 0;
+    line-height: 120px;
+  }
+
+  .ava {
+    width: 120px;
+    height: 120px;
+    display: block;
+    border-radius: 50%;
+  }
+
+  .nick {
+    height: 60px;
+    width: 100%;
+    font-size: 28px;
+    position: absolute;
+    top: 230px;
+    color: white;
+    text-align: center;
+  }
+
+  .list {
+    margin: 20px 0;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    border-top: 1px solid #d8d8d8;
+
+    .customerIcon {
+      font-size: 40px;
+      color: #d2d2d2;
+      margin: 0 20px;
+    }
+
+    .row {
+      display: flex;
+      flex-direction: row;
+      width: calc(100% - 20px);
+      padding: 20px 10px;
+      border-bottom: 1px solid #d8d8d8;
+
+      .text {
+        margin-left: 10px;
+        font-size: 28px;
+        color: #666666;
+      }
+    }
+  }
+
+
+}
