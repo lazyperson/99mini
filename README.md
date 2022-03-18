@@ -127,6 +127,6 @@ npm run dev:weapp
 | res_id | string | 资源id |
 
 
-文章教程请访问本人掘金。 
+文章教程请访问本人掘金 https://juejin.cn/post/7073695633047027743 。 
 
 
