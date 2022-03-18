@@ -1,4 +1,7 @@
 # 99mini 微信小程序
+![gh_925af3d90186_430.jpg](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/29b4e30dd79648f2a78b834dfc2b02ed~tplv-k3u1fbpfcp-watermark.image?)
+
+<img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/02c07ec681944e988d137d298edf661d~tplv-k3u1fbpfcp-zoom-in-crop-mark:1304:0:0:0.awebp?" width="50%" />
 
 ## 基于Taro3.x React + 微信云开发
 
@@ -126,5 +129,4 @@ npm run dev:weapp
 
 文章教程请访问本人掘金。 
 
-![gh_925af3d90186_430.jpg](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/29b4e30dd79648f2a78b834dfc2b02ed~tplv-k3u1fbpfcp-watermark.image?)
 
