@@ -1,8 +1,10 @@
 # 99mini 微信小程序
 <img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/29b4e30dd79648f2a78b834dfc2b02ed~tplv-k3u1fbpfcp-watermark.image" width="30%" />
-<img src="https://s2.loli.net/2022/03/18/7AbQjMG5CxRBrUZ.jpg" width="35%" />
-<img src="https://s2.loli.net/2022/04/02/HLXsQP8But2OSpi.jpg" width="35%" />
-<img src="https://s2.loli.net/2022/04/02/35Hu8wrBYL19TM7.jpg" width="35%" />
+<div style="display: flex;">
+  <img src="https://s2.loli.net/2022/03/18/7AbQjMG5CxRBrUZ.jpg" width="35%" />
+  <img src="https://s2.loli.net/2022/04/02/HLXsQP8But2OSpi.jpg" width="35%" />
+  <img src="https://s2.loli.net/2022/04/02/35Hu8wrBYL19TM7.jpg" width="35%" />
+</div>
 
 ## 基于Taro3.x React + 微信云开发
 
